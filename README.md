@@ -1,4 +1,4 @@
 # mykodibuildwizard
 # mailto:Ressourcen-Haendler@web.de
-# Ressourcen-Händler.de
-# Ressourcen-Haendler.de
+# http://www.Ressourcen-Händler.de
+# http://www.Ressourcen-Haendler.de
